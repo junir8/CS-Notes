@@ -17,7 +17,7 @@ Beginer's Learning path of ML:
   - Science (what & why), technology (how), engineering (performance & cost), application (use)
   - In this course, we'll focus on what, why, and how.
   
- - What's ML?
+- What's ML?
   - classic definition: Machine learning is the study of computer algorithms that allow computer programs to automatically improve through experience (Tom Mitchell, 1997).
   - data analysis using computer algorithms.
 
